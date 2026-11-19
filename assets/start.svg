@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Build your first make.fun entry</title>
+<desc id="desc">A beginner's route: choose a brief, build with your agent, test it, then submit.</desc>
+<rect width="1200" height="360" rx="20" fill="#10251e"/>
+<path d="M860 0h340v360H940Z" fill="#17392c"/>
+<circle cx="1090" cy="65" r="160" fill="none" stroke="#285440" stroke-width="2"/>
+<circle cx="1090" cy="65" r="205" fill="none" stroke="#285440" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="48" y="35" width="171" height="31" rx="15" fill="#d7f975"/>
+<text x="64" y="56" font-size="14" font-weight="700" letter-spacing="1.5" fill="#10251e">HUMAN + AGENT</text>
+<text x="48" y="130" font-size="51" font-weight="700" letter-spacing="-1.5" fill="#f4f5e9">Your next project could be</text>
+<text x="48" y="190" font-size="55" font-weight="700" letter-spacing="-1.5" fill="#d7f975">your first bounty entry.</text>
+<text x="50" y="228" font-size="20" fill="#b9ccbd">A practical make.fun guide. Start with a brief you can finish.</text>
+<g font-size="17" font-weight="700">
+<circle cx="62" cy="295" r="14" fill="#d7f975"/><text x="57" y="301" fill="#10251e">1</text><text x="87" y="302" fill="#f4f5e9">Choose</text>
+<path d="M174 296h57m-7-6 7 6-7 6" stroke="#709781" fill="none" stroke-width="2"/>
+<circle cx="263" cy="295" r="14" fill="#d7f975"/><text x="258" y="301" fill="#10251e">2</text><text x="288" y="302" fill="#f4f5e9">Build</text>
+<path d="M360 296h57m-7-6 7 6-7 6" stroke="#709781" fill="none" stroke-width="2"/>
+<circle cx="449" cy="295" r="14" fill="#d7f975"/><text x="444" y="301" fill="#10251e">3</text><text x="474" y="302" fill="#f4f5e9">Test</text>
+<path d="M536 296h57m-7-6 7 6-7 6" stroke="#709781" fill="none" stroke-width="2"/>
+<circle cx="625" cy="295" r="14" fill="#d7f975"/><text x="620" y="301" fill="#10251e">4</text><text x="650" y="302" fill="#f4f5e9">Submit</text>
+</g>
+<g transform="translate(990 206)"><rect width="155" height="104" rx="12" fill="#d7f975"/><path d="m31 39-14 13 14 13m92-26 14 13-14 13M86 24 70 80" fill="none" stroke="#10251e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g></svg>
